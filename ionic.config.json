@@ -1,6 +1,8 @@
 {
   "name": "sidemenu_app",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "a3d659e0"
 }
