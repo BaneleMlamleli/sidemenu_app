@@ -1,0 +1,15 @@
+warning: LF will be replaced by CRLF in src/app/home/home.page.html.
+The file will have its original line endings in your working directory.
+[1mdiff --git a/src/app/home/home.page.html b/src/app/home/home.page.html[m
+[1mindex 9b9b457..f5dc211 100644[m
+[1m--- a/src/app/home/home.page.html[m
+[1m+++ b/src/app/home/home.page.html[m
+[36m@@ -20,7 +20,7 @@[m
+                 <ion-card-title>Clinic</ion-card-title>[m
+               </ion-card-header>[m
+               <ion-card-content>[m
+[31m-                <p>Get access to clinics that are the closest to your current location.</p>[m
+[32m+[m[32m                <p>Get access to clinics that are the closest to your current location within 80km.</p>[m
+               </ion-card-content>[m
+             </ion-card>[m
+           </ion-col>[m
