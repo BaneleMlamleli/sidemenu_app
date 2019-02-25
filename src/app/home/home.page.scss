@@ -4,3 +4,13 @@
   background-image: linear-gradient(to bottom, #4facfe 0%, #00f2fe 100%);
 }
 
+hr { 
+  height: 1px;
+  color:  #6fb5f1;
+  background-color:  #6fb5f1;
+}
+
+ion-card-content ion-img {
+  overflow: hidden;
+  background-image: url("/assets/icon/bg-abstract.jpg");
+}
